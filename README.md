@@ -57,5 +57,3 @@ This is a simple blog application built with Django. Users can create and delete
 
 ## Author
 Developed by Richie Sayer
-
----
