@@ -1,0 +1,10 @@
+{
+    "terminal.intergrated.automationShell.windows": 
+    "terminal.intergrated.cursorStyle": "line",
+    "html.format.indentInnerHtml": true,
+    "files.exclude": {
+        ".gitignore": true,
+        "env": true
+        "README.md": true
+    }
+}
